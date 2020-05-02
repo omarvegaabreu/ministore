@@ -142,15 +142,15 @@ class ProductList extends Component {
   fetchProducts() {
     this.#products = [
       new Product(
-        "A Pillow",
-        "https://media.springernature.com/w580h326/nature-cms/uploads/collections/2AP1TD2-b598c7937e0cb7c3ddb3d98f6d897d82.jpg",
-        "A soft pillow!",
+        "JavasScript",
+        "https://cdn-images-1.medium.com/max/2000/0*VzV25X2xJ3HEiuCK.",
+        "Understanding Classes",
         19.99
       ),
       new Product(
-        "A Carpet",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ardabil_Carpet.jpg/397px-Ardabil_Carpet.jpg",
-        "A carpet which you might like - or not.",
+        "A class",
+        "/assets/Images/classes.png",
+        "Object Oriented Programming",
         89.99
       ),
     ];
